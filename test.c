@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(void){
-	printf(%d,"123456\n");
+	int a;
+	printf("123456\n");
+	printf("123%d",a);
 	return 0;
 }
 
